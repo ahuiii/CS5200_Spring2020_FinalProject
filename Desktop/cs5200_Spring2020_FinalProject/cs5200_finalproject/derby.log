@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 17 21:59:16 EDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0171-8b02-e7d3-00000bd00ab0 
+on database directory memory:C:\Users\Cheng\Desktop\cs5200_spring2020_project\cs5200_finalproject\myDb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@e73f9ac 
+Loaded from file:/C:/Users/Cheng/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Azul Systems, Inc.
+java.runtime.version=11.0.5+10-LTS
+user.dir=C:\Users\Cheng\Desktop\cs5200_spring2020_project\cs5200_finalproject
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
