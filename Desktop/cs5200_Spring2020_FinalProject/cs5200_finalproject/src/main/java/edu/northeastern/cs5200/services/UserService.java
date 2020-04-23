@@ -37,7 +37,7 @@ public class UserService {
     if (!user.getPassword().isEmpty()) {
       user.setPassword(argon2PasswordEncoder.encode(user.getPassword()));
     } else {
-      User oldUser = findByEmail(user.getUserName());
+      User oldUser = userRepository.findUserById(user.getId());
       user.setPassword(oldUser.getPassword());
     }
     return userRepository.save(user);
